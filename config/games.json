@@ -1,86 +1,37 @@
 [
   {
     "id": "basketball-legends",
-    "name": "Basketball Legends",
+    "name": "🏀 Basketball Legends (Stable Core)",
     "category": "Fun",
-    "description": "2D arcade basketball with big heads and super dunks.",
-    "url": "https://github.io"
-  },
-  {
-    "id": "rocket-goal",
-    "name": "Rocket Goal",
-    "category": "Fun",
-    "description": "High-octane hybrid of 2D soccer and rocket-powered cars.",
-    "url": "https://rocketgoal.io"
-  },
-  {
-    "id": "basket-random",
-    "name": "Basket Random",
-    "category": "Fun",
-    "description": "Chaotic 2-player physics-based basketball.",
-    "url": "https://github.io"
-  },
-  {
-    "id": "retro-bowl",
-    "name": "Retro Bowl",
-    "category": "Fun",
-    "description": "Manage team rosters and play retro arcade football matches.",
-    "url": "https://github.io"
-  },
-  {
-    "id": "1v1-lol",
-    "name": "1v1.LOL",
-    "category": "Shooter",
-    "description": "Third-person competitive building and shooting mechanics.",
+    "description": "2D arcade basketball with big heads.",
     "url": "https://github.io"
   },
   {
     "id": "doom-classic",
-    "name": "Doom (Classic JS)",
+    "name": "🔫 Doom Classic JS",
     "category": "Shooter",
-    "description": "The legendary 1993 first-person shooter running entirely in JS.",
-    "url": "https://github.io"
-  },
-  {
-    "id": "time-shooter-2",
-    "name": "Time Shooter 2",
-    "category": "Shooter",
-    "description": "Time moves only when you move. Plan out your shots.",
-    "url": "https://github.io"
-  },
-  {
-    "id": "minecraft-eagler",
-    "name": "Minecraft Web",
-    "category": "Adventure",
-    "description": "Full open world multiplayer web-port survival crafting.",
+    "description": "The legendary 1993 first-person shooter.",
     "url": "https://github.io"
   },
   {
     "id": "portal-flash",
-    "name": "Portal Flash Edition",
+    "name": "🌀 Portal Flash Edition",
     "category": "Adventure",
-    "description": "Solve mind-bending physical puzzle layouts using your portal gun.",
-    "url": "https://github.io"
-  },
-  {
-    "id": "run-3",
-    "name": "Run 3",
-    "category": "Adventure",
-    "description": "Gravity-defying fast endless platformer runner in outer space.",
+    "description": "Solve mind-bending physical puzzle layouts.",
     "url": "https://github.io"
   },
   {
     "id": "subway-surfers",
-    "name": "Subway Surfers Mobile",
+    "name": "📱 Subway Surfers Mobile",
     "category": "Mobile",
     "description": "Touchscreen-optimized endless train dodge runner.",
     "url": "https://github.io"
   },
   {
-    "id": "bitlife",
-    "name": "BitLife Life Simulator",
-    "category": "Mobile",
-    "description": "Text-based simulator choice system perfect for smartphones.",
-    "url": "https://github.io"
+    "id": "github-arcade-database",
+    "name": "🚀 2,000+ Game Open-Source Database",
+    "category": "Fun",
+    "description": "Bypasses Lightspeed/Securly by loading unblocked HTML5 indexes straight from global dev branches.",
+    "url": "https://githack.com"
   }
 ]
